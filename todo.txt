@@ -1,0 +1,5 @@
+[] - tasarım
+[] - cümle listesi
+[] - teknoloji seçimi
+[] - html + css
+[] - js
